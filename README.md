@@ -1,5 +1,5 @@
 # [Binary Search I](https://leetcode.com/study-plan/binary-search)
-# [Quang Dang](https://leetcode.com/tranquangdang21/)
+- [Quang Dang](https://leetcode.com/tranquangdang21/)
 ## Day 1
 * [704. Binary Search](./Day%201/704.%20Binary%20Search/Solution.java)
 * [374. Guess Number Higher or Lower](./Day%201/374.%20Guess%20Number%20Higher%20or%20Lower/Solution.java)
