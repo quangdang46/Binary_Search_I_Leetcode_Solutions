@@ -33,4 +33,4 @@
 * [1855. Maximum Distance Between a Pair of Values](./Day%2011/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/Solution.java)
 * [33. Search in Rotated Sorted Array](./Day%2011/33.%20Search%20in%20Rotated%20Sorted%20Array/Solution.java)
 ## Day 12
-* [33. Search in Rotated Sorted Array](./Day%2012/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/Solution.java)
+* [153. Find Minimum in Rotated Sorted Array](./Day%2012/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/Solution.java)
